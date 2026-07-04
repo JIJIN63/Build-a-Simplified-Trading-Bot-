@@ -1,0 +1,4 @@
+2026-07-04 22:37:47,118 | INFO | trading_bot | Order request received | symbol=BTCUSDT side=BUY type=MARKET quantity=0.001 price=None
+2026-07-04 22:37:47,118 | INFO | trading_bot | Order response received | {'orderId': 'TEMP12345', 'status': 'NEW', 'executedQty': '0', 'avgPrice': '0.0'}
+2026-07-04 22:42:59,925 | INFO | trading_bot | Order request received | symbol=BTCUSDT side=BUY type=MARKET quantity=0.001 price=None
+2026-07-04 22:42:59,925 | INFO | trading_bot | Order response received | {'orderId': 'TEMP12345', 'status': 'NEW', 'executedQty': '0', 'avgPrice': '0.0'}
